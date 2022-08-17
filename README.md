@@ -1,6 +1,6 @@
 # Cooperative Visual Object Learning
 
-Master thesis (.pdf in the repository) done in 2017 in collaboration with Honda Research Institute in Germany. 
+Master thesis (PDF in the repository) done in 2017 in collaboration with Honda Research Institute in Germany. 
 
 ## Abstract 
 
